@@ -56,6 +56,23 @@ Comprometido con la resolución de problemas complejos a través del uso de tecn
 ![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=dilanSA132&show_icons=true&theme=tokyonight)  
 
 ---
-### 🌎 ¡Conéctate conmigo!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dilan-vinicio-sancho-lopez-830ab6323/)  
+### 🌎 ¡Contactos!  
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/dilan-vinicio-sancho-lopez-830ab6323/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/dilan.vinicio" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/dilanvinicio/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://wa.me/506XXXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://t.me/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</div>
+
 
