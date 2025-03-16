@@ -53,7 +53,16 @@ Comprometido con la resolución de problemas complejos a través del uso de tecn
 
 
 ## 📊 GitHub Stats  
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=dilanSA132&show_icons=true&theme=tokyonight)  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilanSA132&show_icons=true&theme=tokyonight" alt="Tus Estadísticas" style="max-width: 48%; margin-bottom: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilanSA132&theme=tokyonight" alt="GitHub Streak" style="max-width: 48%; margin-bottom: 20px;">
+
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanSA132&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width: 48%; margin-bottom: 20px;">
+
+</div>
 
 ---
 ### 🌎 ¡Contactos!  
