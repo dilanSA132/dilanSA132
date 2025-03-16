@@ -1,23 +1,23 @@
-# 👋 ¡Hola! Soy Dilan Sancho López
+# 👋 Hi! I'm Dilan Sancho López
 
-## 👨🏻‍💻 Sobre Mí  
-🌍 Soy de Costa Rica, Perez Zeledon.Estudio Ingeniería en Sistemas en la Universidad Nacional De Costa Rica. Enfocado en el aprendizaje continuo de nuevas herramientas y metodologías, siempre buscando expandir mi conocimiento técnico y aplicar buenas prácticas.
-Comprometido con la resolución de problemas complejos a través del uso de tecnologías avanzadas y enfoques de desarrollo ágiles Y Apasionado por el desarrollo de software y la implementación de tecnologías que optimicen procesos y mejoren la eficiencia empresarial.
+## 👨🏻‍💻 About Me  
+🌍 I'm from Costa Rica, Perez Zeledon. I study Systems Engineering at the National University of Costa Rica. Focused on continuously learning new tools and methodologies, always striving to expand my technical knowledge and apply best practices.  
+Committed to solving complex problems through the use of advanced technologies and agile development approaches. Passionate about software development and implementing technologies that optimize processes and improve business efficiency.
 
-## 💼 Habilidades  
+## 💼 Skills  
 - 🚀 Agile/Scrum  
-- 🧠 Resolución de Problemas  
-- 🤝 Trabajo en Equipo  
-- 🔍 Pensamiento Crítico  
-- ⏳ Gestión del Tiempo  
-- 📊 Habilidades Analíticas  
-- 🔄 Adaptabilidad  
-- 🗣️ Comunicación  
-- 🎨 Creatividad  
-- 🎯 Atención al Detalle  
-- 🏆 Liderazgo y autogestión  
+- 🧠 Problem Solving  
+- 🤝 Teamwork  
+- 🔍 Critical Thinking  
+- ⏳ Time Management  
+- 📊 Analytical Skills  
+- 🔄 Adaptability  
+- 🗣️ Communication  
+- 🎨 Creativity  
+- 🎯 Attention to Detail  
+- 🏆 Leadership and Self-management  
 
-## 🛠️ Lenguajes y Herramientas  
+## 🛠️ Languages and Tools  
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -50,22 +50,18 @@ Comprometido con la resolución de problemas complejos a través del uso de tecn
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </div>
 
-
-
 ## 📊 GitHub Stats  
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilanSA132&show_icons=true&theme=tokyonight" alt="Tus Estadísticas" style="max-width: 48%; margin-bottom: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilanSA132&theme=tokyonight" alt="GitHub Streak" style="max-width: 48%; margin-bottom: 20px;">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=dilanSA132&show_icons=true&theme=tokyonight" alt="Your Stats" style="max-width: 48%; margin-bottom: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilanSA132&theme=tokyonight" alt="GitHub Streak" style="max-width: 48%; margin-bottom: 20px;">
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanSA132&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width: 48%; margin-bottom: 20px;">
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanSA132&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width: 48%; margin-bottom: 20px;">
 </div>
 
 ---
-### 🌎 ¡Contactos!  
+### 🌎 Contact Me!  
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/dilan-vinicio-sancho-lopez-830ab6323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -83,5 +79,3 @@ Comprometido con la resolución de problemas complejos a través del uso de tecn
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
-
-
